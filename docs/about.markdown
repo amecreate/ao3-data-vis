@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This site is maintained by Emily Kz.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Emily is a free-lance illustrator and full-time data lover. She has been a dedicated volunteer at AO3 since 2016, and currently working as a graphics designer for Fanlore.org, a sister nonprofit project under OTW.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+To see the github repo about this project: [ao3-data-vis](https://github.com/amecreate/ao3-data-vis)
 
-
-[jekyll-organization]: https://github.com/jekyll
+Check out more illustration works from Emily: [Behance](https://www.behance.net/amykz)

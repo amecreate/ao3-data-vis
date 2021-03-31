@@ -11,3 +11,5 @@ Emily is a free-lance illustrator and full-time data lover. She has been a dedic
 To see the github repo about this project: [ao3-data-vis](https://github.com/amecreate/ao3-data-vis)
 
 Check out more illustration works from Emily: [Behance](https://www.behance.net/amykz)
+
+More content will be posted to this website shortly, stay tuned!

@@ -19,6 +19,8 @@ First things first, follow the [official Github documentation](https://docs.gith
 
 Since we're creating a website for a project instead of a user site, we do not need to follow the naming convention specified in the documentation.
 
+Remember to initialize the project repository with README and .gitignore (python template) files.
+
 # Install Jekyll 
 
 Install Jekyll by following the [official installation instructions](https://jekyllrb.com/docs/installation/). 

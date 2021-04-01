@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: A Look Into AO3 Data
-#email: your-email@example.com
+# email: carmillakt@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Analysis and data visualization.  
   Python, Jupyter Notebook, Numpy, Pandas, Matplotlib, Seaborn. 
@@ -37,6 +37,12 @@ plugins:
 
 # Google Analytics
 google_analytics: G-93TTVX02SC
+
+# Enable Excerpts
+show_excerpts: true
+
+# Author Metadata
+author: Emily Kz
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Creating a GiHub Pages site for your project with Jekyll"
 date:   2021-03-31 -0400
-category: website
+category: web-development
 tags: github jekyll
 ---
 

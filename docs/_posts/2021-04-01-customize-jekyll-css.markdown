@@ -2,7 +2,7 @@
 layout: post
 title:  "CSS Customization with Jekyll and GitHub Pages"
 date:   2021-04-01 -0400
-category: website
+category: web-development
 tags: jekyll css
 ---
 

@@ -1,8 +1,11 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
+
+<img src="assets/avatar/girl.png" alt="avatar" width="20%">
+
+Hi there! 
 
 This site is maintained by Emily Kz.
 

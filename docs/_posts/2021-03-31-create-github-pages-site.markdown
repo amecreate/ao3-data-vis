@@ -3,7 +3,7 @@ layout: post
 title:  "Creating a GiHub Pages site for your project with Jekyll"
 date:   2021-03-31 -0400
 category: website
-tags: Github Jekyll
+tags: github jekyll
 ---
 
 I am going slightly off topic here ;) This is how I set up this website using Github Pages and Jekyll. This article assumes you have basic working knowledge of Git and Command Line.

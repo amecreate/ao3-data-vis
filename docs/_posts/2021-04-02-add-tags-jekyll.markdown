@@ -18,7 +18,7 @@ Open `_layouts/post.html` with your text editor, add the following to the `heade
 {% raw %}
   <span class="post-tags">Tags: 
     {% for tag in page.tags %}
-     <a href="/tag/taglist">{{ tag }}&nbsp;</a>
+     <a href="{{ '/tag/taglist' | relative_url }}">{{ tag }}&nbsp;</a>
     {% endfor %}
   </span>
 {% endraw %}

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "AO3 and its first data release"
-date:   2021-05-06
+title:  "AO3 and Its First Data Release"
+date:   2021-05-05
 category: visualization
 tags: Python Pandas 
 ---

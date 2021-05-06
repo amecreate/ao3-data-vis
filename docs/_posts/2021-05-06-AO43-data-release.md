@@ -1,13 +1,10 @@
 ---
 layout: post
-title:  "Language Trend"
-date:   2021-04-01
+title:  "AO3 and its first data release"
+date:   2021-05-06
 category: visualization
 tags: Python Pandas 
 ---
-
-
-## AO3 and its first data release
 
 Archiveofourown.org (AO3) is a fan-created, fan-run, nonprofit, noncommercial archive for transformative fanworks. At the time of this writing, it has more than 42,750 fandoms, 3,547,000 users, and 7,428,000 works.
 
@@ -40,7 +37,7 @@ There are endless possibilities with this data set, we can:
 - Text mining and sentiment analysis 
 - Word frequency, Topic modeling, etc
 
-Let's start off with today's topic: Language Trend
+Let's take a sneak peek at what we have on hand.
 
 The following code is written in Python and executed in Jupyter Notebook. You can follow along, or check out the [github repository](https://github.com/amecreate/ao3-data-vis) for this project. 
 

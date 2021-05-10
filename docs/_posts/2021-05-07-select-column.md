@@ -13,7 +13,7 @@ In this section, we focus on navigating the data set, and cleaning missing value
 
 # Loading File
 
-For details on how to load large csv files in Python, check out [Loading CSV Files in Python]({% post_url 2021-05-06-load-file %}). 
+For details on how to load large csv files in Python, check out [Loading CSV Files in Python]({% link _posts/2021-05-06-load-file.md %}). 
 
 
 ```python

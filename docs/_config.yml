@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Python, Jupyter Notebook, Numpy, Pandas, Matplotlib, Seaborn. 
   Check out the github repo for more details.  
   
-baseurl: "/ao3-data-vis" # the subpath of your site, e.g. /blog
+baseurl: "/ao3-data-vis/" # the subpath of your site, e.g. /blog
 url: "https://amecreate.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  amecreate

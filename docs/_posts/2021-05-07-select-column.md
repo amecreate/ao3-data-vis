@@ -11,10 +11,7 @@ In this section, we focus on navigating the data set, and cleaning missing value
 * Table of Contents
 {:toc}
 
-# Loading File
-
-For details on how to load large csv files in Python, check out [Loading CSV Files in Python]({% link 2021-05-06-load-file.md %}). 
-
+# Loading File 
 
 ```python
 # Load Python library

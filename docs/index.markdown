@@ -12,5 +12,14 @@ title: Gallery
 </div>
 
 <div style="float:left;margin-right:5px;">
-<img src="assets/boxplot.png" alt="boxplot" width="45%"/><img src="assets/linechart.png" alt="linechart" width="45%"/>
+<img src="assets/boxplot.png" alt="boxplot" width="45%"/><img src="assets/0516seasonality/output_9_1.png" alt="linechart" width="45%"/>
 </div>
+
+<div style="float:left;margin-right:5px;">
+<img src="assets/0516seasonality/output_14_1.png" alt="boxplot monthly" width="45%"/><img src="assets/0516seasonality/output_15_1.png" alt="boxplot annually" width="45%"/>
+</div>
+
+<div style="float:left;margin-right:5px;">
+<img src="assets/0516seasonality/output_22_0.png" alt="decomposition" width="45%"/><img src="assets/0516seasonality/output_18_1.png" alt="autocorrelation" width="45%"/>
+</div>
+

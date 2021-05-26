@@ -23,3 +23,8 @@ title: Gallery
 <img src="assets/0516seasonality/output_22_0.png" alt="decomposition" width="45%"/><img src="assets/0516seasonality/output_18_1.png" alt="autocorrelation" width="45%"/>
 </div>
 
+<div style="float:left;margin-right:5px;">
+<img src="assets/0523piechart/output_26_0.png" alt="piechart" width="65%"/>
+</div>
+
+

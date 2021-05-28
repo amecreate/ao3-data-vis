@@ -462,7 +462,7 @@ The tags column in **works** is a long string containing tag ids separated by pl
 To extract the rating id from the tags column in **works**, we're going to:
 
 - Create a new column named "rating" in **works**
-- Extract the first id (which is also the smallest number) from the tags column, add the id to rating column
+- Extract the first id (which is also the minimum number) from the tags column, add the id to rating column
 
 
 ```python

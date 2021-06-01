@@ -6,6 +6,12 @@ layout: page
 title: Gallery
 ---
 
+<div style="float:left;margin-right:5px;">
+<video muted autoplay controls>
+    <source src="assets/rating-breakdown.mp4" type="video/mp4" alt="rating-breakdown"/>
+Your browser does not support the video tag.
+</video>
+</div>
 
 <div style="float:left;margin-right:5px;">
 <img src="assets/hmap.png" alt="hmap" width="45%"/><img src="assets/output_12_0.png" alt="linegrid" width="45%"/>

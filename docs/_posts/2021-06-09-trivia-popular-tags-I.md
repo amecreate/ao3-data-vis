@@ -2,7 +2,7 @@
 layout: post
 title:  "AO3 Trivia: Popular Tags Part I"
 date:   2021-06-09
-categories: data-exploration
+categories: data-exploration visualization
 tags: Python Pandas WordCloud 
 ---
 

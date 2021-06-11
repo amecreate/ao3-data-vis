@@ -33,4 +33,8 @@ Your browser does not support the video tag.
 <img src="assets/0523piechart/output_26_0.png" alt="piechart" width="45%"/><img src="assets/output_23_1.png" alt="wordcloud" width="45%"/>
 </div>
 
+<div style="float:left;margin-right:5px;">
+<img src="assets/output_24_0.png" alt="circlepack" width="45%"/>
+</div>
+
 
